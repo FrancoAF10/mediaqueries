@@ -1,0 +1,32 @@
+/*.container {
+    background: var(--color, grey);
+    min-height: 200px;
+    padding: 1rem 2rem;
+  }
+  
+  @media (width <= 550px) {
+    .container {
+      --color: indigo;
+      
+    }
+  }
+  
+  @media (width >= 750px) {
+    .container {
+      --color: green;
+    }
+}
+  */
+
+  /*:root{
+    --color:blue;
+    --background:black;
+  }
+  @media (width <= 600px) {
+    .container {
+      color:var(--color);
+      background-color: var(--background);
+    }
+  }
+    */
+    
