@@ -1,33 +1,32 @@
-/*@media (max-width: 800px) {
+@media (max-width: 800px) {
     body {
       background-color: green;
       font-size: 20px;
     }
   }
-*/
 
   
-  /*@media not (min-width: 900px) {
-    .carousel {
-      display: none;
-    }
-  }
-*/
-/*
-  @media only screen and (max-width: 600px) {
-    section {
-      padding: 10px;
-      font-size: 20px;
-    }
-  }
-*/
+@media not (min-width: 900px) {
+   .carousel {
+     display: none;
+   }
+ }
+
+
+@media only screen and (max-width: 600px) {
+   section {
+     padding: 10px;
+     font-size: 20px;
+   }
+ }
+
   
-  /*@media (min-width: 800px) and (max-width: 1200px) {
+@media (min-width: 800px) and (max-width: 1200px) {
     .container {
       background-color: #1079e2;
       border: 1px solid black;
       padding: 10px;
     }
   }
-    */
+
   
